@@ -73,7 +73,6 @@ h2.section-title-heading {
 }
 
 
-
 /* ============ NAVIGATION =============== */
 
 .navbar {
@@ -462,4 +461,8 @@ h2.section-title-heading {
     margin-top: 1rem;
     color: #ffffff;
     font-size: .9rem;
+}
+.copyright a {
+    color: white;
+    text-decoration: none;
 }
