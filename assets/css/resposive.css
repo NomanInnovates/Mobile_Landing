@@ -1,0 +1,10 @@
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    #pricing .pricing-table {
+    
+        margin: 0 0 1rem 1rem;
+        width: 100%;
+}
+}
